@@ -253,3 +253,6 @@ This repository serves as the official landing page for Microsoft Remote Desktop
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Microsoft Remote Desktop today!**
+
+---
+**Last updated:** 2026-09-10 17:30:26 UTC
