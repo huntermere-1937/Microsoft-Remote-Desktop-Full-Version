@@ -255,4 +255,4 @@ This repository serves as the official landing page for Microsoft Remote Desktop
 **Get the most recent version of Microsoft Remote Desktop today!**
 
 ---
-**Last updated:** 2026-10-19 12:20:56 UTC
+**Last updated:** 2026-10-19 19:04:06 UTC
